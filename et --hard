@@ -1,0 +1,14 @@
+[33m3390109[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fix error 127 and optimize excludeFiles
+[33mfd38947[m ubah clean
+[33maeceb82[m Simplify vercel json and rely on install command override
+[33m75b4c95[m Fix schema error and move ignores to vercelignore
+[33m023cd3f[m Apply excludeFiles configuration from Vercel docs
+[33m2499bf9[m Fix ignore paths and force rm-rf commands
+[33m7271cbc[m hps titik koma vercel json
+[33m681441d[m Fix vercel json schema and ensure cleanup
+[33m70ea136[m Fix cleanup scripts location and remove node_modules
+[33mf13a79b[m Add aggressive Google cleaner script
+[33me4dc55b[m Add vercelignore and cleanup scripts
+[33m7cf6c75[m update vercel json
+[33mbe8926a[m Update env drive
+[33md0b53a1[m Upload pertama aplikasi SIM-WAS BPS
