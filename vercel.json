@@ -13,6 +13,7 @@
         "APP_DEBUG": "true",
         "APP_URL": "https://pertanian6102.vercel.app",
         "DB_CONNECTION": "pgsql",
-        "FILESYSTEM_DISK": "cloudinary"
+        "FILESYSTEM_DISK": "cloudinary",
+        "LOG_CHANNEL": "stderr" 
     }
 }
